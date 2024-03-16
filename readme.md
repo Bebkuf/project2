@@ -8,3 +8,6 @@ git push origin main
 git add .
 git commit -m "msg"
 git push origin main 
+shortcut
+git push -u origin main thne git push only
+git commit -am "added dot" is the shortcut of adding and commit together
